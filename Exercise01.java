@@ -52,7 +52,7 @@ public class ExerciseOne {
             }
         }
         if (freq == 0){
-            frq = -1;
+            freq = -1;
         }
         return freq;
     }
